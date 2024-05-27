@@ -498,7 +498,7 @@ filter: blur(2px);
 
 @media (max-width: 768px) {
   .navbar {
-    padding: 0px 30px 0 10px;
+    padding: 0px 45px 0 10px;
   }
   .middle-nav {
     display: none;
