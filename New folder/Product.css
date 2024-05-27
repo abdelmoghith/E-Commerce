@@ -2,8 +2,8 @@
 .produit {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  width: 80%;
-  margin: 20px auto;
+  width: 90%;
+  margin: 20px auto 50px;
   text-transform: capitalize;
 }
 .image {
@@ -75,7 +75,7 @@ input[type="radio"]:nth-of-type(2) {
 }
 
 .About-product {
-  width: 70%;
+  width: 90%;
   height: auto;
   margin: 0px auto 20px;
   background-color: #e90000;
