@@ -509,7 +509,14 @@ filter: blur(2px);
   font-size: 40px;
 }
 
+.shop{
+    display: none;
+  }
+
 @media (max-width: 768px) {
+  .shop{
+    display: block;
+  }
   .navbar {
     padding: 0px 30px 0 10px;
   }
